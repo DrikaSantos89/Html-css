@@ -12,7 +12,8 @@
 <a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex009/index.html">Executar o exercicio 009</a>
 <a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex010/index.html">Executar o exercicio 010</a>
 <a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex010B/index.html">Executar o exercicio 010B</a>
-<a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex011/index.html">Executar o exercicio 011</a><a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex012/index.html">Executar o exercicio 012</a>
+<a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex011/index.html">Executar o exercicio 011</a>
+<a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex012/index.html">Executar o exercicio 012</a>
 <a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex013/index.html">Executar o exercicio 013</a>
 <a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex014/index.html">Executar o exercicio 014</a>
 <a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex015/index.html">Executar o exercicio 015</a>
