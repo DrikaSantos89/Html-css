@@ -4,11 +4,11 @@
 <a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex002/index.html">Executar o exercicio 002</a>
 <a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex003/index.html">Executar o exercicio 003</a>
 <a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex004/index.html">Executar o exercicio 004</a>
-<a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex005/index.html">Executar o exercicio 005</a>
 <a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex006/index.html">Executar o exercicio 006</a>
-<a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex007/index.html">Executar o exercicio 007</a>
-<a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex008/index.html">Executar o exercicio 008</a>
-<a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex008B/index.html">Executar o exercicio 008B</a>
+<a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex007/html4.html">Executar o exercicio 007a</a>
+<a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex007/html5.html">Executar o exercicio 007b</a>
+<a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex008/Index.html">Executar o exercicio 008</a>
+<a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex008B">Executar o exercicio 008B</a>
 <a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex009/index.html">Executar o exercicio 009</a>
 <a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex010/index.html">Executar o exercicio 010</a>
 <a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex010B/index.html">Executar o exercicio 010B</a>
