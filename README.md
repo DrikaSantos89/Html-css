@@ -10,7 +10,7 @@
 <a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex007/html5.html">Executar o exercicio 007b</a>
 <a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex008/Index.html">Executar o exercicio 008</a>
 <a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex008B/Index.html">Executar o exercicio 008B</a>
-<a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex009/index.html">Executar o exercicio 009</a>
+<a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex009/Index.html">Executar o exercicio 009</a>
 <a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex010/Index.html">Executar o exercicio 010</a>
 <a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex010B/Index.html">Executar o exercicio 010B1</a>
 <a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex010B/pag002.html">Executar o exercicio 010B2</a>
@@ -23,9 +23,9 @@
 <a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex016/cor01.html">Executar o exercicio 016a</a>
 <a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex016/cor02.html">Executar o exercicio 016b</a>
 <a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex016/cor03.html">Executar o exercicio 016c</a>
-<a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex017/index.html">Executar o exercicio 017a</a>
+<a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex017/fonte01.html">Executar o exercicio 017a</a>
 <a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex017/fonte02.html">Executar o exercicio 017b</a>
-<a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex018/index.html">Executar o exercicio 018a</a>
+<a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex018/fonte01.html">Executar o exercicio 018a</a>
 <a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex018/fonte02.html">Executar o exercicio 018b</a>
 <a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex019/seletor01.html">Executar o exercicio 019</a>
 <a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex020/hover.html">Executar o exercicio 020</a>
