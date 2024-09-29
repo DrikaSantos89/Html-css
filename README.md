@@ -1,6 +1,7 @@
 # Html-css
  Curso de html5 e CSS3 do Curso em Video
-<a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex001/index.html">Executar o exercicio 001</a>
+ <lo>
+<li><a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex001/index.html">Executar o exercicio 001</a></li>
 <a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex002/index.html">Executar o exercicio 002</a>
 <a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex003/index.html">Executar o exercicio 003</a>
 <a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex004/index.html">Executar o exercicio 004</a>
@@ -31,3 +32,4 @@
 <a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex021/caixa01.html">Executar o exercicio 021a</a>
 <a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex021/caixa02.html">Executar o exercicio 021b</a>
 <a href= "https://drikasantos89.github.io/Html-css/Exercicios/Ex021/caixa03.html>Executar o exercicio 021c</a>
+</lo>
