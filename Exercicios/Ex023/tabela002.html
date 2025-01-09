@@ -12,6 +12,7 @@
         table {
             width: 500px;
             border-collapse: collapse;
+            position: relative;
         }
 
         td, th {
@@ -31,24 +32,27 @@
             color: white;
         }
         
+        thead > tr > th {
+            position: sticky;
+            top: -1px;
+            background-color: gray;
+        }
         tbody > tr:nth-child(2n) {
             background-color: lightgray;
 
         }
     </style>
-    
-
 </head>
 <body>
     <h1>Uso de tabelas grandes</h1>
     <table>
         <caption>População das Unidades Federativas</caption>
-        <tread>
+        <thead>
             <tr>
                 <th>Estado</th>
                 <th>População</th>
             </tr>
-        </tread>
+        </thead>
         <tbody>
             <tr>
                 <td>São Paulo</td>
@@ -169,6 +173,6 @@
         </tfoot>
 
     </table>
-    
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolore nostrum voluptates impedit rerum unde ad si Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro aliquid illo sapiente rem. Nulla quasi ad ipsam amet a aut illum facilis saepe harum, earum cum asperiores. Dolor, nobis facere.nt facilis praesentium officiis, in fugiat harum incidunt ullam eveniet magni illo voluptatem, modi expedita! Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque fuga corporis et eius libero doloribus dignissimos distinctio asperiores soluta sint temporibus nisi necessitatibus, nulla ex, alias error? Magnam, fugit necessitatibus?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum neque ut, accusamus ipsa soluta quibusdam quasi. Velit, vel eaque. Libero pariatur reprehenderit, laborum voluptatum neque iure sapiente voluptatem magnam rem.</p>
 </body>
 </html>
