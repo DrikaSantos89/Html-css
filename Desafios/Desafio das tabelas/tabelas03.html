@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio Tabelas com escopo</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            
+        }
+
+        table {
+            border-collapse: collapse;
+        }
+
+        th {
+            background-color: gray;
+        }
+        
+
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+            
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th>Area</th>
+                <th>Disciplinas</th>
+                <th rowspan="2">Notas Nota nota 21</td> <td>Nota 2</td></th>
+                <th>Média</th>
+            </tr>
+            <th rowspan="4">Exatas</th>
+            <td>Matemática</td>
+            <td>8</td>
+            <td>7</td>
+            <td>8</td>
+
+            <tr>
+                <td>Física</td>
+                <td>8</td>
+                <td>8</td>
+                <td>8</td>
+            </tr>
+
+            <tr>
+                <td>Quimica</td>
+                <td>9</td>
+                <td>9</td>
+                <td>9</td>
+            </tr>
+
+            <tr>
+                <td>Biologia</td>
+                <td>7</td>
+                <td>8</td>
+                <td>7</td>
+            </tr>
+
+            <tr>
+                <td colspan="5">Média de Exatas</td>
+                <td>9</td>
+            </tr>
+
+            <tr>
+                <th rowspan="2">Humanas</th>
+                <td>História</td>
+                <td>6</td>
+                <td>8</td>
+                <td>8</td>
+            </tr>
+            <tr>
+                <td>Geografía</td>
+                <td>8</td>
+                <td>8</td>
+                <td>8</td>
+            </tr>
+
+            <tr>
+                <th colspan="5">Média de Humanas</th>
+                <td>8</td>
+            </tr>
+
+        </thead>
+    </table>
+</body>
+</html>
