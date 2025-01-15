@@ -15,27 +15,42 @@
         }
 
         th {
-            background-color: gray;
+            background-color: rgb(187, 183, 183);
+            color: white;
         }
         
-
         th, td {
             border: 1px solid black;
-            padding: 10px;
-            
+            padding: 10px; 
         }
+
+        td.media {
+            background-color: rgb(187, 183, 183);
+            color: white;
+        }
+
+        th.area {
+            background-color: white;
+            color: black;
+        }
+
+        
     </style>
 </head>
 <body>
     <table>
         <thead>
             <tr>
-                <th>Area</th>
-                <th>Disciplinas</th>
-                <th rowspan="2">Notas Nota nota 21</td> <td>Nota 2</td></th>
-                <th>Média</th>
+                <th scope="col">Area</th>
+                <th scope="col">Disciplinas</th>
+                <th rowspan="2" scope="rowgroup">Notas Nota 1</td> <td>Nota 2</td></th>
+                <th scope="col">Média</th>
             </tr>
-            <th rowspan="4">Exatas</th>
+        
+        </thead>
+
+        <tbody>
+            <th rowspan="4" scope="rowgroup" class="area">Exatas</th>
             <td>Matemática</td>
             <td>8</td>
             <td>7</td>
@@ -63,12 +78,12 @@
             </tr>
 
             <tr>
-                <td colspan="5">Média de Exatas</td>
+                <td colspan="4" class="media">Média de Exatas</td>
                 <td>9</td>
             </tr>
 
             <tr>
-                <th rowspan="2">Humanas</th>
+                <th rowspan="2" scope="rowgroup" class="area">Humanas</th>
                 <td>História</td>
                 <td>6</td>
                 <td>8</td>
@@ -82,11 +97,12 @@
             </tr>
 
             <tr>
-                <th colspan="5">Média de Humanas</th>
+                <td colspan="4" class="media">Média de Humanas</td>
                 <td>8</td>
             </tr>
 
-        </thead>
+
+        </tbody>
     </table>
 </body>
 </html>
